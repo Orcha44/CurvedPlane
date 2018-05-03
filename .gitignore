@@ -8,6 +8,7 @@ ExportedObj/
 UWP/
 .consulo/
 .vscode/
+.vs/
 *.sln
 *.csproj
 *.unityproj
